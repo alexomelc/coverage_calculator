@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Product component 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1ni1nnj-MuiPaper-root-MuiCard-root"
+  >
+    <div
+      class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+        data-testid="product-type"
+      >
+        Bike
+      </span>
+      <p
+        class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+      >
+        Please, select coverage from range
+      </p>
+      <div
+        class="MuiTypography-root MuiTypography-body2 css-r40f8v-MuiTypography-root"
+      >
+        <div
+          class="MuiBox-root css-ax14a8"
+        >
+          <div
+            class="MuiBox-root css-1domaf0"
+          >
+            <span
+              aria-labelledby="input-slider"
+              class="MuiSlider-colorPrimary MuiSlider-sizeMedium MuiSlider-root MuiSlider-marked css-1aznpnh-MuiSlider-root"
+            >
+              <span
+                class="MuiSlider-rail css-14pt78w-MuiSlider-rail"
+              />
+              <span
+                class="MuiSlider-track css-1gv0vcd-MuiSlider-track"
+                style="left: 0%; width: 0%;"
+              />
+              <span
+                class="MuiSlider-mark MuiSlider-markActive css-6cwnna-MuiSlider-mark"
+                data-index="0"
+                style="left: 0%;"
+              />
+              <span
+                aria-hidden="true"
+                class="MuiSlider-markLabel MuiSlider-markLabelActive css-1eoe787-MuiSlider-markLabel"
+                data-index="0"
+                style="left: 0%;"
+              >
+                0
+              </span>
+              <span
+                class="MuiSlider-mark css-1tfve6q-MuiSlider-mark"
+                data-index="1"
+                style="left: 100%;"
+              />
+              <span
+                aria-hidden="true"
+                class="MuiSlider-markLabel css-yafthl-MuiSlider-markLabel"
+                data-index="1"
+                style="left: 100%;"
+              >
+                3000
+              </span>
+              <span
+                class="MuiSlider-thumbColorPrimary MuiSlider-thumbSizeMedium MuiSlider-thumb css-eg0mwd-MuiSlider-thumb"
+                data-index="0"
+                style="left: 0%;"
+              >
+                <input
+                  aria-label="Always visible"
+                  aria-labelledby="input-slider"
+                  aria-orientation="horizontal"
+                  aria-valuemax="3000"
+                  aria-valuemin="0"
+                  aria-valuenow="0"
+                  data-index="0"
+                  max="3000"
+                  min="0"
+                  step="1"
+                  style="border: 0px; height: 100%; margin: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 100%; direction: ltr;"
+                  type="range"
+                  value="0"
+                />
+                <span
+                  aria-hidden="true"
+                  class="MuiSlider-valueLabel css-1kz0hui-MuiSlider-valueLabel"
+                >
+                  <span
+                    class="MuiSlider-valueLabelCircle"
+                  >
+                    <span
+                      class="MuiSlider-valueLabelLabel"
+                    >
+                      0
+                    </span>
+                  </span>
+                </span>
+              </span>
+            </span>
+          </div>
+          <div
+            class="MuiBox-root css-30zzyj"
+          >
+            <div
+              class="MuiInput-root MuiInput-underline MuiInputBase-root MuiInputBase-colorPrimary css-1tq0l7i-MuiInputBase-root-MuiInput-root"
+            >
+              <input
+                aria-invalid="false"
+                aria-labelledby="input-slider"
+                class="MuiInput-input MuiInputBase-input css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                max="3000"
+                min="0"
+                step="1"
+                type="number"
+                value="0"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiCardActions-root MuiCardActions-spacing css-1kj8htw-MuiCardActions-root"
+    >
+      <button
+        class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButtonBase-root Mui-disabled  css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        Add to basket
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
