@@ -1,6 +1,6 @@
-### Task requirements
+### Description
 
-Imagine a modular insurance product. People can choose from four modules. Each module has a different selectable coverage and a different mathematical risk.
+This is a modular insurance product. People can choose from four modules. Each module has a different selectable coverage and a different mathematical risk.
 These are the modules:
 Bike (Coverage 0-3k, Risk 30%)
 Jewelry (Coverage 500-10k, Risk 5%) Electronics (Coverage 500-6k, Risk 35%) Sports Equipment (Coverage 0-20k, Risk 30%)
